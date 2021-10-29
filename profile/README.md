@@ -12,4 +12,4 @@ NEET-CV目前具有以下研究方向的Team：
 
 NEET-CV目前具有来自以下组织或机构的成员：  
 - [桂林电子科技大学计算机与信息安全学院大学生科技协会](https://hello.kexie.space/)
-- [桂林电子科技大学校基地软剑部](https://csd.guet.ltd/)
+- [桂林电子科技大学校基地软件部](https://csd.guet.ltd/)
