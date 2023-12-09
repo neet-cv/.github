@@ -3,8 +3,8 @@
 NEET-CV 是几位大学生在研究使用深度学习技术的计算机视觉任务时为了资源共享、团队协作等创立的俱乐部形式的组织，发起人自知才疏学浅，故命名为 NEET-CV。NEET-CV 并不是一个严肃的组织，其成员热爱自己的研究方向。NEET-CV 会定期举办线上/线下的论文研讨会议，在确保到会人数的情况下频率为1周/次。
 
 Recent activities:
-- https://github.com/neet-cv/ml.akasaki.space
 - https://github.com/visualDust/neetbox
+- https://github.com/neet-cv/ml.akasaki.space
 
 NEET-CV 目前具有以下研究方向的 Team：  
 - 目标检测/追踪
